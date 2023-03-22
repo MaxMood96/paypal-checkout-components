@@ -61,7 +61,7 @@
     "readmeFilename": "README.md",
     "devDependencies": {
         "babel-core": "^7.0.0-bridge.0",
-        "bundlemon": "^1.1.0",
+        "bundlemon": "^2.0.0",
         "conventional-changelog-cli": "^2.0.34",
         "flow-bin": "0.155.0",
         "fs-extra": "^10.0.0",
